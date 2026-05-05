@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeDesigner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dd2b7211b9d720ced943ba55d2557a887ff7a0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d1ca9db693f12253d6eec8fa2ff4022a432ffdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeDesigner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeDesigner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

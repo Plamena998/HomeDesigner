@@ -1,4 +1,6 @@
-﻿using HomeDesigner.Builder;
+﻿using System;
+using HomeDesigner.Adapter;
+using HomeDesigner.Builder;
 using HomeDesigner.Decorator;
 using HomeDesigner.Strategy;
 
@@ -9,54 +11,44 @@ namespace HomeDesigner
         static void Main(string[] args)
         {
             DesignerDirector designer = new DesignerDirector();
-            ScandinavianRoomBuilder scandinavianBuilder = new ScandinavianRoomBuilder();
 
-            designer.Construct(scandinavianBuilder);
+            IRoomBuilder builder = new ScandinavianRoomBuilder();
+            // IRoomBuilder builder = new IndustrialRoomBuilder();
+            // IRoomBuilder builder = new VintageRoomBuilder();
 
-            Room scandinavianRoom = scandinavianBuilder.GetResult();
-            Console.WriteLine("Scandinavian Room:");
-            scandinavianRoom.DisplayInfo();
+            designer.Construct(builder);
+            Room room = builder.GetResult();
 
-            IProject project = scandinavianRoom;
-            project.GetDescription();
+            Console.WriteLine($"{room.Style} Room:");
+            room.DisplayInfo();
+
+            IProject project = room;
             project = new _3DDecorator(project);
 
             Console.WriteLine();
             Console.WriteLine("Adding 3D visualization.");
 
+            double baseCostWithExtras = project.GetCost();
+
             IPaymentStrategy payment = new VipDiscountStrategy();
             Console.WriteLine();
-            double discountedAmount = payment.Discount(project.GetCost());
+            double discountedAmount = payment.Discount(baseCostWithExtras);
 
+            IProjectLogger logger = new FileLoggerAdapter("project_info.txt");
+            logger.LogProject(project.GetDescription(), baseCostWithExtras, discountedAmount);
+            logger = new ConsoleLoggerAdapter();
+            logger.LogProject(project.GetDescription(), baseCostWithExtras, discountedAmount);
 
+            //Console.WriteLine("==================================");
+            //Console.WriteLine("---FINAL OFFER---");
+            //Console.WriteLine($"Project: {project.GetDescription()}");
+            //Console.WriteLine($"Total cost: ${baseCostWithExtras:F2}.");
+            //Console.WriteLine($"Type: VIP (15% discount)");
+            //Console.WriteLine($"FINAL AMOUNT TO PAY: ${discountedAmount:F2}.");
+            //Console.WriteLine("==================================");
+            //Console.WriteLine("Project is saved successfully via Adapter.");
+            //Console.WriteLine("==================================");
 
-            string path = "project_info.txt";
-            try
-            {
-                using (StreamWriter writer = new StreamWriter(path, true))
-                {
-                    writer.WriteLine("==================================");
-                    writer.WriteLine("---FINAL OFFER---");
-                    writer.WriteLine($"Project: {project.GetDescription()}");
-                    writer.WriteLine($"Total cost: ${project.GetCost():F2}.");
-                    writer.WriteLine($"Type: VIP (15% discount)");
-                    writer.WriteLine($"FINAL AMOUNT TO PAY: ${discountedAmount:F2}.");
-                    Console.WriteLine("==================================");
-
-                    Console.WriteLine("File is saved successfully.");
-                }
-            }      
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Error writing to file: {ex.Message}");
-            }
-            Console.WriteLine("==================================");
-            Console.WriteLine("---FINAL OFFER---");
-            Console.WriteLine($"Project: {project.GetDescription()}");
-            Console.WriteLine($"Total cost: ${project.GetCost():F2}.");
-            Console.WriteLine($"Type: VIP (15% discount)");
-            Console.WriteLine($"FINAL AMOUNT TO PAY: ${discountedAmount:F2}.");
-            Console.WriteLine("==================================");
         }
     }
 }
