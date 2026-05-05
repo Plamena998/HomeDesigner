@@ -1,0 +1,15 @@
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\bin\Debug\net9.0\HomeDesigner.exe
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\bin\Debug\net9.0\HomeDesigner.deps.json
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\bin\Debug\net9.0\HomeDesigner.runtimeconfig.json
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\bin\Debug\net9.0\HomeDesigner.dll
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\bin\Debug\net9.0\HomeDesigner.pdb
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\obj\Debug\net9.0\HomeDesigner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\obj\Debug\net9.0\HomeDesigner.AssemblyInfoInputs.cache
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\obj\Debug\net9.0\HomeDesigner.AssemblyInfo.cs
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\obj\Debug\net9.0\HomeDesigner.csproj.CoreCompileInputs.cache
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\obj\Debug\net9.0\HomeDesigner.sourcelink.json
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\obj\Debug\net9.0\HomeDesigner.dll
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\obj\Debug\net9.0\refint\HomeDesigner.dll
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\obj\Debug\net9.0\HomeDesigner.pdb
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\obj\Debug\net9.0\HomeDesigner.genruntimeconfig.cache
+C:\Users\plami\Documents\uni\GitHub\HomeDesigner\HomeDesigner\obj\Debug\net9.0\ref\HomeDesigner.dll

@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\builder\\scandinavianroombuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:builder\\scandinavianroombuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\builder\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:builder\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\builder\\iroombuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:builder\\iroombuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\builder\\furnitureitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:builder\\furnitureitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\builder\\designerdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:builder\\designerdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\decorator\\3ddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:decorator\\3ddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\strategy\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:strategy\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\strategy\\regulardiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:strategy\\regulardiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\strategy\\vipdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:strategy\\vipdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\decorator\\projectdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:decorator\\projectdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\decorator\\expressorderdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:decorator\\expressorderdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\decorator\\iproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:decorator\\iproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1992744574:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPaymentStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Strategy\\IPaymentStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\IPaymentStrategy.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Strategy\\IPaymentStrategy.cs",
+              "RelativeToolTip": "Strategy\\IPaymentStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:34:16.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DesignerDirector.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Builder\\DesignerDirector.cs",
+              "RelativeDocumentMoniker": "Builder\\DesignerDirector.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Builder\\DesignerDirector.cs",
+              "RelativeToolTip": "Builder\\DesignerDirector.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:03:55.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Furnitureitem.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Builder\\Furnitureitem.cs",
+              "RelativeDocumentMoniker": "Builder\\Furnitureitem.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Builder\\Furnitureitem.cs",
+              "RelativeToolTip": "Builder\\Furnitureitem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:51:43.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRoomBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Builder\\IRoomBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\IRoomBuilder.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Builder\\IRoomBuilder.cs",
+              "RelativeToolTip": "Builder\\IRoomBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:06:26.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Builder\\Room.cs",
+              "RelativeDocumentMoniker": "Builder\\Room.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Builder\\Room.cs",
+              "RelativeToolTip": "Builder\\Room.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:48:49.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScandinavianRoomBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Builder\\ScandinavianRoomBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\ScandinavianRoomBuilder.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Builder\\ScandinavianRoomBuilder.cs",
+              "RelativeToolTip": "Builder\\ScandinavianRoomBuilder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:59:14.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "3DDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Decorator\\3DDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\3DDecorator.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Decorator\\3DDecorator.cs",
+              "RelativeToolTip": "Decorator\\3DDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:18:36.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:41:31.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegularDiscountStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Strategy\\RegularDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\RegularDiscountStrategy.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Strategy\\RegularDiscountStrategy.cs",
+              "RelativeToolTip": "Strategy\\RegularDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:37:07.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VipDiscountStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Strategy\\VipDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\VipDiscountStrategy.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Strategy\\VipDiscountStrategy.cs",
+              "RelativeToolTip": "Strategy\\VipDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:35:16.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Decorator\\ProjectDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\ProjectDecorator.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Decorator\\ProjectDecorator.cs",
+              "RelativeToolTip": "Decorator\\ProjectDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:17:44.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExpressOrderDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Decorator\\ExpressOrderDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\ExpressOrderDecorator.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Decorator\\ExpressOrderDecorator.cs",
+              "RelativeToolTip": "Decorator\\ExpressOrderDecorator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:19:43.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProject.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Decorator\\IProject.cs",
+              "RelativeDocumentMoniker": "Decorator\\IProject.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Decorator\\IProject.cs",
+              "RelativeToolTip": "Decorator\\IProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:14:30.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
