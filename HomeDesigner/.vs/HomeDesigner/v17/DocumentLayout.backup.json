@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:adapter\\consoleloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\adapter\\iprojectlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:adapter\\iprojectlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\adapter\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:adapter\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\builder\\industrialroombuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:builder\\industrialroombuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\adapter\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:adapter\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\adapter\\iprojectlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|solutionrelative:adapter\\iprojectlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B34182E-F259-496A-9393-78AD8C573BCE}|HomeDesigner.csproj|c:\\users\\plami\\documents\\uni\\github\\homedesigner\\homedesigner\\strategy\\vipdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -156,14 +156,14 @@
               "RelativeDocumentMoniker": "Adapter\\ConsoleLoggerAdapter.cs",
               "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Adapter\\ConsoleLoggerAdapter.cs",
               "RelativeToolTip": "Adapter\\ConsoleLoggerAdapter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T12:14:17.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "VintageRoomBuilder.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Builder\\VintageRoomBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\VintageRoomBuilder.cs",
@@ -171,12 +171,11 @@
               "RelativeToolTip": "Builder\\VintageRoomBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T12:10:23.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T12:10:23.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IndustrialRoomBuilder.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Builder\\IndustrialRoomBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\IndustrialRoomBuilder.cs",
@@ -184,31 +183,30 @@
               "RelativeToolTip": "Builder\\IndustrialRoomBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T12:07:32.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T12:07:32.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "FileLoggerAdapter.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Adapter\\FileLoggerAdapter.cs",
               "RelativeDocumentMoniker": "Adapter\\FileLoggerAdapter.cs",
               "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Adapter\\FileLoggerAdapter.cs",
               "RelativeToolTip": "Adapter\\FileLoggerAdapter.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T12:06:34.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "IProjectLogger.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Adapter\\IProjectLogger.cs",
               "RelativeDocumentMoniker": "Adapter\\IProjectLogger.cs",
               "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Adapter\\IProjectLogger.cs",
               "RelativeToolTip": "Adapter\\IProjectLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T12:05:55.577Z",
               "EditorCaption": ""
@@ -227,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\HomeDesigner\\HomeDesigner\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -235,8 +233,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAQwC0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T12:41:31.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T12:41:31.864Z"
             },
             {
               "$type": "Document",
